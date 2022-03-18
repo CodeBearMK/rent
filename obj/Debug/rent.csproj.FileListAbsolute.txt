@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\rent\bin\Debug\rent.exe.config
+D:\cat32tw\Desktop\rent\bin\Debug\rent.exe
+D:\cat32tw\Desktop\rent\bin\Debug\rent.pdb
+D:\cat32tw\Desktop\rent\obj\Debug\rent.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\rent\obj\Debug\rent.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\rent\obj\Debug\rent.Form1.resources
+D:\cat32tw\Desktop\rent\obj\Debug\rent.Properties.Resources.resources
+D:\cat32tw\Desktop\rent\obj\Debug\rent.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\rent\obj\Debug\rent.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\rent\obj\Debug\rent.exe
+D:\cat32tw\Desktop\rent\obj\Debug\rent.pdb
